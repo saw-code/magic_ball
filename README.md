@@ -1,5 +1,5 @@
 # Игрушка `Magic ball` написанная на Ruby
-![alt text](https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/12/ff/2a/12ff2add-e7f6-b921-dbb2-5c2553b4d43e/pr_source.jpg/320x0w.jpg)
+![320x0w](https://user-images.githubusercontent.com/79259334/108494861-16162b80-72b9-11eb-80ce-61bfb8ba31c1.jpg)
 ## Правила игры очень простые:
 
 Вы задаете любой вопрос, нажимаете `enter`
