@@ -1,4 +1,4 @@
-# Игрушка `Magic ball`
+# Игрушка `Magic ball` написанная на Ruby
 ![alt text](https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/12/ff/2a/12ff2add-e7f6-b921-dbb2-5c2553b4d43e/pr_source.jpg/320x0w.jpg)
 ## Правила игры очень простые:
 
